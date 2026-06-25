@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/quand-on-na-que-lamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Quand On N'a Que L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/quand-on-na-que-lamour/) |
+| **Get License** | [License this song: Quand On N'a Que L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/quand-on-na-que-lamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1944b187c0f82120bd31c47901fb1916a4e489dbc6631c9c95e70b2dc1b40342` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

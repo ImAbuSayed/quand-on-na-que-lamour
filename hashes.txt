@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Quand On N'a Que L'amour
+
+This log tracks the cryptographic history and versioning for the song **Quand On N'a Que L'amour** (quand-on-na-que-lamour).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T11:43:53.694861 | `v1` | `1944b187c0f82120bd31c47901fb1916a4e489dbc6631c9c95e70b2dc1b40342` | `b2f049421d901e2b465354e848c9d36a74ca483fb11c787ac23915c9868a018e` | `2026-06-25_quand-on-na-que-lamour-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
