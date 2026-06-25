@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/quand-on-na-que-lamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Quand On N'a Que L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/quand-on-na-que-lamour/) |
+| **Get License** | [Request Licensing for Quand On N'a Que L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/quand-on-na-que-lamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons de la ville, ton regard me fascine
+> You got that magic touch, l'adrénaline qui culmine
+> On danse dans la nuit, un désir qui s'illumine
+> Viens plus près de moi, baby, you are my queen
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
